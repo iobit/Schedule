@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_height="wrap_content"
+              android:layout_width="match_parent"
+              android:gravity="center_vertical"
+              android:paddingLeft="5dp">
+
+    <ImageView
+        android:contentDescription="@string/favourite"
+        android:id="@+id/imgFavIcon"
+        android:src="@drawable/ic_action_favourite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <include
+        layout="@layout/sherlock_spinner_dropdown_item"
+        android:layout_height="48dp"
+        android:layout_width="match_parent"/>
+</LinearLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blue">#0099CC</color>
+    <color name="purple">#9933CC</color>
+    <color name="green">#669900</color>
+    <color name="orange">#FF8800</color>
+    <color name="red">#CC0000</color>
+    <color name="green_light_icon">#7eb469</color>
+
+    <color name="blue_light">#33B5E5</color>
+    <color name="purple_light">#AA66CC</color>
+    <color name="green_light">#99CC00</color>
+    <color name="orange_light">#FFBB33</color>
+    <color name="red_light">#FF4444</color>
+    <color name="yellow_light_icon">#F3EAB3</color>
+
+
+    <array name="colors">
+        <item>@color/yellow_light_icon</item>
+        <item>@color/blue</item>
+        <item>@color/purple</item>
+        <item>@color/green</item>
+        <item>@color/orange</item>
+        <item>@color/red</item>
+        <item>@color/green_light_icon</item>
+        <item>@color/blue_light</item>
+        <item>@color/purple_light</item>
+        <item>@color/green_light</item>
+        <item>@color/orange_light</item>
+        <item>#CCFFFF</item>
+        <item>#99FFCC</item>
+        <item>#FF3366</item>
+        <item>#FF99FF</item>
+        <item>#FFFF66</item>
+        <item>#FFFFFF</item>
+        <item>#000000</item>
+        <item>#888888</item>
+
+    </array>
+
+</resources>

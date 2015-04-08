@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string-array name="days">
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="times" tools:ignore="MissingTranslation">
+        <item>8.30–10.00</item>
+        <item>10.10–11.40</item>
+        <item>11.50–13.20</item>
+        <item>13.35–15.05</item>
+        <item>15.20–16.50</item>
+        <item>17.00–18.30</item>
+        <item>18.40–20.10</item>
+    </string-array>
+
+    <string name="time_separator" tools:ignore="MissingTranslation">–</string>
+    <string name="even_week" tools:ignore="MissingTranslation">ч/н</string>
+    <string name="odd_week" tools:ignore="MissingTranslation">н/н</string>
+    <string name="should_notify" tools:ignore="MissingTranslation">should notify</string>
+    <string name="rate_key" tools:ignore="MissingTranslation">rate</string>
+    <string name="contact_key" tools:ignore="MissingTranslation">contact</string>
+    <string name="changelog_key" tools:ignore="MissingTranslation">changelog</string>
+    <string name="source_key" tools:ignore="MissingTranslation">source</string>
+
+
+    <string name="app_name">Schedule</string>
+    <string name="settings">Settings</string>
+    <string name="opened">Opened</string>
+    <string name="closed">Closed</string>
+    <string name="faculties">Faculties</string>
+    <string name="retry">Retry</string>
+    <string name="network_error">Unable to connect</string>
+    <string name="choose_your_faculty">Please choose your faculty</string>
+    <string name="error_downloading_faculty_file">Error downloading your faculty file</string>
+    <string name="unable_to_parse_lessons">Unable to parse lessons</string>
+    <string name="favourite">Favourite</string>
+    <string name="unfavourite">Unfavourite</string>
+    <string name="actionbar_color">Actionbar color</string>
+    <string name="tab_color">Tab color</string>
+    <string name="parity">Parity</string>
+    <string name="enable_notifications">Enable notifications</string>
+    <string name="notifications_summary">Show lesson notification before each lesson</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="discard">Discard</string>
+    <string name="notifications">Notifications</string>
+
+
+    <string name="support">Support</string>
+    <string name="changelog">Changelog</string>
+    <string name="contact_with_dev">Contact with developer</string>
+    <string name="contact_with_dev_summary">I\'ll solve your existential problems</string>
+    <string name="source_code">Source code</string>
+    <string name="source_code_summary">Get the sources from GitHub</string>
+    <string name="rate_the_app">Rate the app</string>
+    <string name="close">Close</string>
+    <string name="support_email_subject">KSU Schedule for Android</string>
+    <string name="refresh">Refresh</string>
+
+
+</resources>

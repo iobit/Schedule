@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <release version="2.1.0" versioncode="16">
+        <change>Добавлена возможность обновления файлов факультетов</change>
+        <change>Добавлен файл для ИТИСа</change>
+    </release>
+    <release version="2.0.2" versioncode="15">
+        <change>Добавлены новые цвета</change>
+        <change>Исправлены падения</change>
+    </release>
+    <release version="2.0.1" versioncode="14">
+        <change>Исправления ошибок для девайсов под Android &lt; 3.0</change>
+    </release>
+    <release version="2.0.0" versioncode="13">
+        <change>Файлы расписаний теперь загружаются из облака</change>
+        <change>Быстрый доступ к избранным группам</change>
+        <change>Уведомления перед началом занятий</change>
+        <change>Настраиваемые цвета</change>
+    </release>
+    <release version="1.0.0" versioncode="1">
+        <change>Появление в Play Store</change>
+    </release>
+</changelog>

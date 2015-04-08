@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res/com.stiggpwnz.schedule"
+           xmlns:tools="http://schemas.android.com/tools">
+    <string-array name="days">
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+    </string-array>
+    <string name="app_name">Расписание</string>
+    <string name="settings">Настройки</string>
+    <string name="opened">Меню открыто</string>
+    <string name="closed">Меню закрыто</string>
+    <string name="faculties">Факультеты</string>
+    <string name="retry">Попробовать снова</string>
+    <string name="network_error">Невозможно подключиться. Проверьте ваше интернет соединение, оно
+        понадобится только при первой загрузке
+    </string>
+    <string name="choose_your_faculty">Выберите ваш факультет</string>
+    <string name="error_downloading_faculty_file">Ошибка при загрузке файла факультета</string>
+    <string name="unable_to_parse_lessons">Невозможно отпарсить занятия</string>
+    <string name="favourite">Добавить в избранное</string>
+    <string name="unfavourite">Убрать из избранного</string>
+    <string name="actionbar_color">Главный цвет</string>
+    <string name="tab_color">Вторичный цвет</string>
+    <string name="parity">Учитывать четность</string>
+    <string name="enable_notifications">Включить уведомления</string>
+    <string name="notifications_summary">Показывать уведомления о занятии перед его началом</string>
+    <string name="edit">Редактировать</string>
+    <string name="save">Сохранить</string>
+    <string name="discard">Отменить</string>
+    <string name="notifications">Уведомления</string>
+    <string name="support">Поддержка</string>
+    <string name="changelog">Список изменений</string>
+    <string name="contact_with_dev">Связаться с разработчиком</string>
+    <string name="contact_with_dev_summary">Решу ваши экзистенциальные проблемы</string>
+    <string name="source_code">Исходный код</string>
+    <string name="source_code_summary">Исходный код приложения на GitHub</string>
+    <string name="rate_the_app">Оценить приложение</string>
+    <string name="close">Закрыть</string>
+
+    <string name="changelog_header_version" tools:ignore="ExtraTranslation">"Версия "</string>
+    <string name="changelog_full_title" tools:ignore="ExtraTranslation">Список Изменений</string>
+    <string name="changelog_title" tools:ignore="ExtraTranslation">Что Нового</string>
+    <string name="changelog_show_full" tools:ignore="ExtraTranslation">Больше…</string>
+    <string name="changelog_version_format" tools:ignore="ExtraTranslation">Версия <xliff:g id="version_name">%s</xliff:g></string>
+
+    <string name="support_email_subject">Расписание КГУ для Android</string>
+    <string name="refresh">Обновить</string>
+</resources>
